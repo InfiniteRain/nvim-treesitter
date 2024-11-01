@@ -2624,6 +2624,22 @@ list.templ = {
   maintainers = { "@vrischmann" },
 }
 
+list.runescript = {
+  install_info = {
+    url = "https://github.com/2004Scape/tree-sitter-runescript",
+    files = { "src/parser.c", "src/scanner.c" },
+  },
+  maintainers = { "@2004Scape" },
+}
+
+list.clientscript = {
+  install_info = {
+    url = "https://github.com/2004Scape/tree-sitter-runescript",
+    files = { "src/parser.c", "src/scanner.c" },
+  },
+  maintainers = { "@2004Scape" },
+}
+
 local M = {
   list = list,
 }

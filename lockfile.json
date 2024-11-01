@@ -907,5 +907,11 @@
   },
   "ziggy_schema": {
     "revision": "42b6f5d7320340bc5903c4c29d34065e8517a549"
+  },
+  "runescript": {
+    "revision": "7b8727a29c1b9ee65b4fcf4792de128e555d4996"
+  },
+  "clientscript": {
+    "revision": "7b8727a29c1b9ee65b4fcf4792de128e555d4996"
   }
 }
